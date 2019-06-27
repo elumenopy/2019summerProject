@@ -29,6 +29,7 @@ Week 7-8: August 12-26
 </pre>
 
 # Week 1-2: July 1-14
+<pre>
 1. Group Members: Justin Yim
                   Kelly McMeekin
                   Dani Leusman
@@ -59,5 +60,5 @@ Week 7-8: August 12-26
    Park Seo Young |            | Sparky#1506
    Victor Ortiz   |            | Victor Ortiz#1706
    August Chaco   | elumenopy  | augMENTED reality#9787
-   
+</pre>
    
