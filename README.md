@@ -3,10 +3,10 @@ Desktop application written in TSQL, C# and ADO.Net
 
 
 # Project Timeline
-July 1 - September 16,
+July 1 - September 16,</br>
 ~12 Weeks before 1st day of class, Fall quarter (9/23)
 
-Week 1-2: July 1-14
+Week 1-2: July 1-14</br>
 [] 1. Finalize participating members
 [] 2. Decide what skills we all want to either brush up on or hone. For example, creating a bound form with the ability to edit 2 different sources of data like you might have done in our final Project Application. The goal by the
 end of the summer is to be very comfortable with these topics and be able to use them without difficulty.
