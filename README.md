@@ -53,12 +53,12 @@ Week 7-8: August 12-26
     proposed: Budget Calculator
               Wildlife Tracker, i.e., enter information about either plants or animals found in WA
               
-4. Group Member   | Github     | Discord
-   Justin Yim     |            | Dandy#4407
-   Kelly McMeekin |            | kellymac#5474
-   Dani Leusman   | DaniLueLoo | DaniLeuLoo#2699
-   Park Seo Young |            | Sparky#1506
-   Victor Ortiz   |            | Victor Ortiz#1706
-   August Chaco   | elumenopy  | augMENTED reality#9787
+4. Group Member   | Github      | Discord
+   Justin Yim     |             | Dandy#4407
+   Kelly McMeekin |             | kellymac#5474
+   Dani Leusman   | DaniLueLoo  | DaniLeuLoo#2699
+   Park Seo Young |             | Sparky#1506
+   Victor Ortiz   | martyMcfly7 | Victor Ortiz#1706
+   August Chaco   | elumenopy   | augMENTED reality#9787
 </pre>
    
