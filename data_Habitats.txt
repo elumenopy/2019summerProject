@@ -1,0 +1,20 @@
+1	Terrestrial	Forest
+2	Terrestrial	Steppe
+3	Terrestrial	Grassland
+4	Terrestrial	Semi-arid
+5	Terrestrial	Desert
+6	Freshwater	Marsh
+7	Freshwater	Stream
+8	Freshwater	River
+9	Freshwater	Lake
+10	Freshwater	Pond
+11	Marine	Salt Marsh
+12	Marine	Coast
+13	Marine	Intertidal zone
+14	Marine	Estuary
+15	Marine	Reef
+16	Marine	Bay
+17	Marine	Open sea
+18	Marine	Sea bed
+19	Marine	Deep water
+20	Marine	Submarine vent

@@ -1,0 +1,9 @@
+EX	Extint	Extinct	No known living individuals
+EW	Extint in the wild	Extinct	Known only to survive in captivity, or as a naturalized population outside its historic range
+CR	Critically endangered	Threatened	Extremely high risk of extinction in the wild
+EN	Endangered	Threatened	High risk of extinction in the wild
+VU	Vulnerable	Threatened	High risk of endangerment in the wild
+NT	Near threatened	Low Risk	Likely to become endangered in the near future
+LC	Least concern	Low Risk	Lowest risk; does not qualify for a higher risk category. Widespread and abundant taxa are included in this category
+DD	Data deficient	Other	Not enough data to make an assessment of its risk of extinction
+NE	Not evaluated	Other	Has not yet been evaluated against the criteria

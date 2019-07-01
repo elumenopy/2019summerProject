@@ -1,0 +1,7 @@
+PR	Permanent Resident	Live in the same region for their entire life span
+SV	Summer Visitor	Arrive in spring. They spend summer here, then they -- and their new young -- return south in autumn.
+WV	Winter Visitor	Arrive in autumn to spend the winter here, where the weather is milder and food is easier to find. In spring, they return to their breeding quarters.
+M	Migrant	Passage migrants stop off here during their long journey north or south. Partial migrants migrate in some places, but not in others, depending upon the weather, so it is never the same from one year to the next.
+A	Accidental	20 or fewer WA records during previous 10-year period according to Washington Bird Records Committee (WBRC)
+S	Sight Record	Records supported only by written documentation, per the Washington Bird Records Committee (WBRC)
+I	Introduced	Introduced to WA by humans, either directly or indirectly
